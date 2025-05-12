@@ -1,6 +1,23 @@
 # Food-ingridient-detection-and-Recipe-recommendation
 Detects ingridients using ensemble model ( faster r-cnn and yolov8 ) and gives recipe suggestions using AI
 
+
+
+First, run the backend server:
+
+```bash
+pip install -r requirements.txt
+python server.py
+```
+Second, run the nextjs applicatiom:
+
+
+```bash
+pip install -r requirements.txt
+python server.py
+```
+
+
 ![image](https://github.com/user-attachments/assets/375986cf-4d56-4939-8f9e-5f832eb8f13f)
 
 ![WhatsApp Image 2025-03-28 at 12 06 49_ddd18a1c](https://github.com/user-attachments/assets/cf2f452f-3f30-45c7-9b11-a159b7f44bff)
