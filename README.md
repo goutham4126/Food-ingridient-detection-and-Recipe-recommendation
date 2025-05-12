@@ -6,15 +6,22 @@ Detects ingridients using ensemble model ( faster r-cnn and yolov8 ) and gives r
 First, run the backend server:
 
 ```bash
-pip install -r requirements.txt
-python server.py
+cd server
+python -m venv venv
+venv\Scripts\activate
+
+pip install flask flask-cors pillow ultralytics numpy
+python -m pip install --upgrade pip
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+python app.py
 ```
 Second, run the nextjs applicatiom:
 
-
 ```bash
-pip install -r requirements.txt
-python server.py
+   npm run dev
+   or
+   pnpm run dev
 ```
 
 
