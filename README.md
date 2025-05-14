@@ -3,6 +3,8 @@ Detects ingridients using ensemble model ( faster r-cnn and yolov8 ) and gives r
 
 
 
+Entire code is available at : https://drive.google.com/drive/folders/1w_Ukh1zd9uI_1KOYMRO_FFqD5RoYFV7w?usp=sharing
+
 First, run the backend server:
 
 ```bash
