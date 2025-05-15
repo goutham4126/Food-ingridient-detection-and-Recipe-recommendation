@@ -2,6 +2,33 @@
 Detects ingridients using ensemble model ( faster r-cnn and yolov8 ) and gives recipe suggestions using AI
 
 
+Now-a-days people find it difficult to make meals and dishes that support a healthy lifestyle. 
+
+This project simplifies cooking with an AI-driven system that identifies ingredients through 
+
+images and recommends personalized recipes. Users upload a photo of their available 
+
+ingredients, and the system accurately detects them using an ensemble model that combines 
+
+YOLOv8 and Faster R-CNN. By fusing the detections from both models using NMS Fusion and 
+
+the IoU metric, the system ensures precise ingredient detection. It also considers dietary 
+
+restrictions, allergies, and preparation time, tailoring recipe recommendations to individual 
+
+preferences. Unlike traditional recipe searches, this automated approach saves time and effort, 
+
+learning user preferences to offer even better recommendations over time. Intelligent 
+
+ingredient pairing maximizes meal options, reduces food waste, and promotes healthier eating 
+
+habits. Future expansions could include smart kitchen connectivity, voice assistants, and 
+
+multilingual support, making the system even more intuitive and accessible for home cooks 
+
+worldwide.
+
+
 
 Entire code is available at : https://drive.google.com/drive/folders/1w_Ukh1zd9uI_1KOYMRO_FFqD5RoYFV7w?usp=sharing
 
