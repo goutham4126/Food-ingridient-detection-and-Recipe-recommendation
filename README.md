@@ -53,9 +53,9 @@ Second, run the nextjs applicatiom:
    pnpm run dev
 ```
 
-Architecture
+**Architecture**
 ![image](https://github.com/user-attachments/assets/375986cf-4d56-4939-8f9e-5f832eb8f13f)
-
+**Output Screens:**
 ![WhatsApp Image 2025-03-28 at 12 06 49_ddd18a1c](https://github.com/user-attachments/assets/cf2f452f-3f30-45c7-9b11-a159b7f44bff)
 ![WhatsApp Image 2025-03-28 at 12 06 48_b3255e52](https://github.com/user-attachments/assets/cd80cf71-9bfe-441f-8bfe-6da5102ed87f)
 
